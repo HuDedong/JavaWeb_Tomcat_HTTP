@@ -1,1 +1,1 @@
-Notes for back-end Java programmers learning the Web container Tomcat, and the HTTP protocol, from Shang Silicon Valley, csdn, GitHub, etc.
+Notes for back-end Java programmers learning the Web container Tomcat, and the HTTP protocol, resources from Shang Silicon Valley, csdn, GitHub, etc.
